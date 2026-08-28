@@ -1,0 +1,17 @@
+========== System Information Report ==========
+Date & Time       : Tue Aug 18 06:47:34 PM IST 2026
+Logged-in User    : jaygupta
+Hostname          : pop-os
+Working Directory : /home/jaygupta/projects/linux-commands
+
+Available Disk Space:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p5  146G   77G   61G  56% /
+
+Available Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5.9Gi       7.1Gi       121Mi       3.3Gi       9.1Gi
+Swap:           23Gi          0B        23Gi
+
+System Uptime:
+ 18:47:34 up 58 min,  1 user,  load average: 0.61, 0.69, 0.63

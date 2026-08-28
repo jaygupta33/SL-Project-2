@@ -1,0 +1,33 @@
+========== User Login Report ==========
+
+Currently Logged-in Users:
+jaygupta
+
+Number of Logged-in Users: 1
+
+User jaygupta is currently logged in.
+
+Last 10 User Logins:
+reboot   system boot  6.17.9-76061709- Tue Aug 18 17:48   still running
+reboot   system boot  6.17.9-76061709- Tue Aug 18 14:03   still running
+reboot   system boot  6.17.9-76061709- Mon Aug 17 09:16 - 01:32  (16:16)
+reboot   system boot  6.17.9-76061709- Sat Aug 15 14:32 - 01:53 (1+11:20)
+reboot   system boot  6.17.9-76061709- Fri Aug 14 22:46 - 13:10  (14:24)
+reboot   system boot  6.17.9-76061709- Fri Aug 14 22:42 - 22:45  (00:03)
+reboot   system boot  6.17.9-76061709- Fri Dec  5 01:27 - 22:04 (252+20:37)
+reboot   system boot  6.17.9-76061709- Thu Aug 13 17:24 - 22:04 (1+04:39)
+reboot   system boot  6.17.9-76061709- Tue Aug 11 09:41 - 22:04 (3+12:22)
+reboot   system boot  6.17.9-76061709- Tue Aug 11 00:36 - 03:06  (02:30)
+
+wtmp begins Fri Jan 16 06:31:45 2026
+
+Number of Unique Users Who Logged In: 1
+
+Most Recent Logins:
+reboot   system boot  6.17.9-76061709- Tue Aug 18 17:48   still running
+reboot   system boot  6.17.9-76061709- Tue Aug 18 14:03   still running
+reboot   system boot  6.17.9-76061709- Mon Aug 17 09:16 - 01:32  (16:16)
+reboot   system boot  6.17.9-76061709- Sat Aug 15 14:32 - 01:53 (1+11:20)
+reboot   system boot  6.17.9-76061709- Fri Aug 14 22:46 - 13:10  (14:24)
+
+wtmp begins Fri Jan 16 06:31:45 2026

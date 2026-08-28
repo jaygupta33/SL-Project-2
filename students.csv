@@ -1,0 +1,21 @@
+StudentID,Name,Age,Department,Email,CGPA
+1,Aarav Sharma,19,Computer Science,aarav.sharma@example.com,8.7
+2,Diya Patel,20,Information Technology,diya.patel@example.com,9.1
+3,Rohan Verma,21,Electronics,rohan.verma@example.com,7.9
+4,Ananya Singh,20,Mechanical,ananya.singh@example.com,8.3
+5,Vivaan Gupta,22,Civil,vivaan.gupta@example.com,7.5
+6,Ishita Mehta,19,Computer Science,ishita.mehta@example.com,9.4
+7,Arjun Nair,21,Electrical,arjun.nair@example.com,8.0
+8,Meera Iyer,20,Information Technology,meera.iyer@example.com,8.9
+9,Kabir Khan,22,Computer Science,kabir.khan@example.com,7.8
+10,Sneha Joshi,21,Electronics,sneha.joshi@example.com,9.0
+11,Aditya Rao,20,Mechanical,aditya.rao@example.com,8.1
+12,Priya Kapoor,19,Civil,priya.kapoor@example.com,8.5
+13,Rahul Das,22,Computer Science,rahul.das@example.com,7.6
+14,Neha Chawla,21,Electrical,neha.chawla@example.com,9.2
+15,Karan Malhotra,20,Information Technology,karan.malhotra@example.com,8.4
+16,Simran Kaur,19,Computer Science,simran.kaur@example.com,9.5
+17,Yash Jain,22,Mechanical,yash.jain@example.com,7.7
+18,Pooja Mishra,20,Civil,pooja.mishra@example.com,8.6
+19,Nikhil Bansal,21,Electronics,nikhil.bansal@example.com,8.2
+20,Riya Sen,19,Information Technology,riya.sen@example.com,9.3
